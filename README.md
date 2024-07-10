@@ -1,4 +1,4 @@
-[![MasterHead](https://draftss.com/wp-content/uploads/2022/12/1-2048x1152.png)
+![MasterHead](https://draftss.com/wp-content/uploads/2022/12/1-2048x1152.png)
 <h1 align="center">Hi 👋, I'm Aycan</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
