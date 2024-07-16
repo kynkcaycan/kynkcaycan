@@ -1,4 +1,7 @@
-<img src="https://draftss.com/wp-content/uploads/2022/12/1-2048x1152.png" alt="MasterHead"  height="250">
+<p align="center">
+  <img src="https://draftss.com/wp-content/uploads/2022/12/1-2048x1152.png" alt="MasterHead" height="250">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Aycan</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
