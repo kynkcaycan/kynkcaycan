@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kynkcaycan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula" alt="GitHub Stats">
-</p>
 
 <p align="center">
   <img src="https://draftss.com/wp-content/uploads/2022/12/1-2048x1152.png" alt="MasterHead" height="250">
