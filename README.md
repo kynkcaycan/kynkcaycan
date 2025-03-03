@@ -41,6 +41,6 @@ I thrive in tackling complex problems, whether it's developing <b>ETL pipelines<
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-🔗 <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>  
-📧 <a href="mailto:your-email@example.com">Email</a>  
+
+📧 <a href="mailto:kynkcaycan@gmail.com">Email</a>  
 </p>
