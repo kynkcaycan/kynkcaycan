@@ -15,7 +15,6 @@ I thrive in tackling complex problems, whether it's developing <b>ETL pipelines<
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -39,10 +38,8 @@ I thrive in tackling complex problems, whether it's developing <b>ETL pipelines<
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-</div>
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-
-📧 <a href="mailto:kynkcaycan@gmail.com">Email</a>  
+  📧 <a href="mailto:kynkcaycan@gmail.com">kynkcaycan@gmail.com</a>
 </p>
