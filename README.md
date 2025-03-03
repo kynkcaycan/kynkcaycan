@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aycan</h1>
-<h3 align="center">A Data Enthusiast with a Passion for Problem-Solving</h3>
+<h3 align="center">A Computer Engineer</h3>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
